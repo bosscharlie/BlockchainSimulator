@@ -1,0 +1,461 @@
+[{
+  "eventID":"0",
+  "time":"0.0",
+  "type":"InitNode",
+  "node":"0"
+},
+{
+  "eventID":"1",
+  "time":"0.0",
+  "type":"InitNode",
+  "node":"1"
+},
+{
+  "eventID":"2",
+  "time":"0.0",
+  "type":"InitNode",
+  "node":"2"
+},
+{
+  "eventID":"3",
+  "time":"0.0",
+  "type":"InitNode",
+  "node":"3"
+},
+{
+  "eventID":"4",
+  "time":"0.0",
+  "type":"InitNode",
+  "node":"4"
+},
+{
+  "eventID":"5",
+  "time":"2.4852087728708208",
+  "type":"FoundBlock",
+  "node":"3",
+  "height":"1",
+  "miner":"3",
+  "hash":"8fc24e20d917480f32ddd05d6c257138a566ee7f26c473d21d0abd0735b4f118"
+},
+{
+  "eventID":"7",
+  "time":"4.485208772870821",
+  "type":"ReceiveBlock",
+  "node":"2",
+  "height":"1",
+  "miner":"3",
+  "hash":"8fc24e20d917480f32ddd05d6c257138a566ee7f26c473d21d0abd0735b4f118",
+  "from":"3"
+},
+{
+  "eventID":"8",
+  "time":"4.485208772870821",
+  "type":"ReceiveBlock",
+  "node":"4",
+  "height":"1",
+  "miner":"3",
+  "hash":"8fc24e20d917480f32ddd05d6c257138a566ee7f26c473d21d0abd0735b4f118",
+  "from":"3"
+},
+{
+  "eventID":"10",
+  "time":"6.485208772870821",
+  "type":"ReceiveBlock",
+  "node":"1",
+  "height":"1",
+  "miner":"3",
+  "hash":"8fc24e20d917480f32ddd05d6c257138a566ee7f26c473d21d0abd0735b4f118",
+  "from":"2"
+},
+{
+  "eventID":"12",
+  "time":"6.485208772870821",
+  "type":"ReceiveBlock",
+  "node":"0",
+  "height":"1",
+  "miner":"3",
+  "hash":"8fc24e20d917480f32ddd05d6c257138a566ee7f26c473d21d0abd0735b4f118",
+  "from":"4"
+},
+{
+  "eventID":"13",
+  "time":"8.48520877287082",
+  "type":"ReceiveBlock",
+  "node":"0",
+  "height":"1",
+  "miner":"3",
+  "hash":"8fc24e20d917480f32ddd05d6c257138a566ee7f26c473d21d0abd0735b4f118",
+  "from":"1"
+},
+{
+  "eventID":"16",
+  "time":"31.613968005994085",
+  "type":"FoundBlock",
+  "node":"0",
+  "height":"2",
+  "miner":"0",
+  "hash":"6291ed6b7431e98ca6bdc60e06da189f213b0e688745aedb873aee94f232409e"
+},
+{
+  "eventID":"17",
+  "time":"33.61396800599408",
+  "type":"ReceiveBlock",
+  "node":"1",
+  "height":"2",
+  "miner":"0",
+  "hash":"6291ed6b7431e98ca6bdc60e06da189f213b0e688745aedb873aee94f232409e",
+  "from":"0"
+},
+{
+  "eventID":"18",
+  "time":"33.61396800599408",
+  "type":"ReceiveBlock",
+  "node":"4",
+  "height":"2",
+  "miner":"0",
+  "hash":"6291ed6b7431e98ca6bdc60e06da189f213b0e688745aedb873aee94f232409e",
+  "from":"0"
+},
+{
+  "eventID":"20",
+  "time":"35.61396800599408",
+  "type":"ReceiveBlock",
+  "node":"2",
+  "height":"2",
+  "miner":"0",
+  "hash":"6291ed6b7431e98ca6bdc60e06da189f213b0e688745aedb873aee94f232409e",
+  "from":"1"
+},
+{
+  "eventID":"22",
+  "time":"35.61396800599408",
+  "type":"ReceiveBlock",
+  "node":"3",
+  "height":"2",
+  "miner":"0",
+  "hash":"6291ed6b7431e98ca6bdc60e06da189f213b0e688745aedb873aee94f232409e",
+  "from":"4"
+},
+{
+  "eventID":"23",
+  "time":"37.61396800599408",
+  "type":"ReceiveBlock",
+  "node":"3",
+  "height":"2",
+  "miner":"0",
+  "hash":"6291ed6b7431e98ca6bdc60e06da189f213b0e688745aedb873aee94f232409e",
+  "from":"2"
+},
+{
+  "eventID":"21",
+  "time":"42.82124906664305",
+  "type":"FoundBlock",
+  "node":"1",
+  "height":"3",
+  "miner":"1",
+  "hash":"42094cfc31a00cfdb17453087a65bcbe02250c93c36de919058d3ab1b22b2f4c"
+},
+{
+  "eventID":"26",
+  "time":"44.82124906664305",
+  "type":"ReceiveBlock",
+  "node":"0",
+  "height":"3",
+  "miner":"1",
+  "hash":"42094cfc31a00cfdb17453087a65bcbe02250c93c36de919058d3ab1b22b2f4c",
+  "from":"1"
+},
+{
+  "eventID":"27",
+  "time":"44.82124906664305",
+  "type":"ReceiveBlock",
+  "node":"2",
+  "height":"3",
+  "miner":"1",
+  "hash":"42094cfc31a00cfdb17453087a65bcbe02250c93c36de919058d3ab1b22b2f4c",
+  "from":"1"
+},
+{
+  "eventID":"28",
+  "time":"46.82124906664305",
+  "type":"ReceiveBlock",
+  "node":"4",
+  "height":"3",
+  "miner":"1",
+  "hash":"42094cfc31a00cfdb17453087a65bcbe02250c93c36de919058d3ab1b22b2f4c",
+  "from":"0"
+},
+{
+  "eventID":"29",
+  "time":"46.82124906664305",
+  "type":"ReceiveBlock",
+  "node":"3",
+  "height":"3",
+  "miner":"1",
+  "hash":"42094cfc31a00cfdb17453087a65bcbe02250c93c36de919058d3ab1b22b2f4c",
+  "from":"2"
+},
+{
+  "eventID":"31",
+  "time":"48.82124906664305",
+  "type":"ReceiveBlock",
+  "node":"3",
+  "height":"3",
+  "miner":"1",
+  "hash":"42094cfc31a00cfdb17453087a65bcbe02250c93c36de919058d3ab1b22b2f4c",
+  "from":"4"
+},
+{
+  "eventID":"25",
+  "time":"59.18333152286921",
+  "type":"FoundBlock",
+  "node":"3",
+  "height":"3",
+  "miner":"3",
+  "hash":"52e410d67cfc3019eabdf30293d3a0eab6bd96107b243de1c8cd8c084dbecd4b"
+},
+{
+  "eventID":"6",
+  "time":"62.83663124194189",
+  "type":"FoundBlock",
+  "node":"4",
+  "height":"1",
+  "miner":"4",
+  "hash":"8b37fa6bb4c5079f960190eb4f2b061310225f72932d334b8df9fbda79ec63ed"
+},
+{
+  "eventID":"30",
+  "time":"71.95997389312696",
+  "type":"FoundBlock",
+  "node":"2",
+  "height":"4",
+  "miner":"2",
+  "hash":"d7731e250bad9486461ea19d86405580dedd23eece734b7aac40035e33428532"
+},
+{
+  "eventID":"33",
+  "time":"73.95997389312696",
+  "type":"ReceiveBlock",
+  "node":"1",
+  "height":"4",
+  "miner":"2",
+  "hash":"d7731e250bad9486461ea19d86405580dedd23eece734b7aac40035e33428532",
+  "from":"2"
+},
+{
+  "eventID":"34",
+  "time":"73.95997389312696",
+  "type":"ReceiveBlock",
+  "node":"3",
+  "height":"4",
+  "miner":"2",
+  "hash":"d7731e250bad9486461ea19d86405580dedd23eece734b7aac40035e33428532",
+  "from":"2"
+},
+{
+  "eventID":"32",
+  "time":"75.04812566425754",
+  "type":"FoundBlock",
+  "node":"4",
+  "height":"4",
+  "miner":"4",
+  "hash":"00439b8a38aea34f9f9984423ee918ff0c68cb854467137cbabd4b12e434bc24"
+},
+{
+  "eventID":"35",
+  "time":"75.95997389312696",
+  "type":"ReceiveBlock",
+  "node":"0",
+  "height":"4",
+  "miner":"2",
+  "hash":"d7731e250bad9486461ea19d86405580dedd23eece734b7aac40035e33428532",
+  "from":"1"
+},
+{
+  "eventID":"36",
+  "time":"75.95997389312696",
+  "type":"ReceiveBlock",
+  "node":"4",
+  "height":"4",
+  "miner":"2",
+  "hash":"d7731e250bad9486461ea19d86405580dedd23eece734b7aac40035e33428532",
+  "from":"3"
+},
+{
+  "eventID":"37",
+  "time":"77.04812566425754",
+  "type":"ReceiveBlock",
+  "node":"0",
+  "height":"4",
+  "miner":"4",
+  "hash":"00439b8a38aea34f9f9984423ee918ff0c68cb854467137cbabd4b12e434bc24",
+  "from":"4"
+},
+{
+  "eventID":"38",
+  "time":"77.04812566425754",
+  "type":"ReceiveBlock",
+  "node":"3",
+  "height":"4",
+  "miner":"4",
+  "hash":"00439b8a38aea34f9f9984423ee918ff0c68cb854467137cbabd4b12e434bc24",
+  "from":"4"
+},
+{
+  "eventID":"40",
+  "time":"77.95997389312696",
+  "type":"ReceiveBlock",
+  "node":"4",
+  "height":"4",
+  "miner":"2",
+  "hash":"d7731e250bad9486461ea19d86405580dedd23eece734b7aac40035e33428532",
+  "from":"0"
+},
+{
+  "eventID":"41",
+  "time":"79.04812566425754",
+  "type":"ReceiveBlock",
+  "node":"1",
+  "height":"4",
+  "miner":"4",
+  "hash":"00439b8a38aea34f9f9984423ee918ff0c68cb854467137cbabd4b12e434bc24",
+  "from":"0"
+},
+{
+  "eventID":"42",
+  "time":"79.04812566425754",
+  "type":"ReceiveBlock",
+  "node":"2",
+  "height":"4",
+  "miner":"4",
+  "hash":"00439b8a38aea34f9f9984423ee918ff0c68cb854467137cbabd4b12e434bc24",
+  "from":"3"
+},
+{
+  "eventID":"44",
+  "time":"81.04812566425754",
+  "type":"ReceiveBlock",
+  "node":"2",
+  "height":"4",
+  "miner":"4",
+  "hash":"00439b8a38aea34f9f9984423ee918ff0c68cb854467137cbabd4b12e434bc24",
+  "from":"1"
+},
+{
+  "eventID":"43",
+  "time":"83.32652018636792",
+  "type":"FoundBlock",
+  "node":"4",
+  "height":"5",
+  "miner":"4",
+  "hash":"50f9d33d9f93b9aad53eb7639f65f353eced955d124055280dd51e7d5188c84e"
+},
+{
+  "eventID":"45",
+  "time":"85.32652018636792",
+  "type":"ReceiveBlock",
+  "node":"0",
+  "height":"5",
+  "miner":"4",
+  "hash":"50f9d33d9f93b9aad53eb7639f65f353eced955d124055280dd51e7d5188c84e",
+  "from":"4"
+},
+{
+  "eventID":"46",
+  "time":"85.32652018636792",
+  "type":"ReceiveBlock",
+  "node":"3",
+  "height":"5",
+  "miner":"4",
+  "hash":"50f9d33d9f93b9aad53eb7639f65f353eced955d124055280dd51e7d5188c84e",
+  "from":"4"
+},
+{
+  "eventID":"47",
+  "time":"87.32652018636792",
+  "type":"ReceiveBlock",
+  "node":"1",
+  "height":"5",
+  "miner":"4",
+  "hash":"50f9d33d9f93b9aad53eb7639f65f353eced955d124055280dd51e7d5188c84e",
+  "from":"0"
+},
+{
+  "eventID":"49",
+  "time":"87.32652018636792",
+  "type":"ReceiveBlock",
+  "node":"2",
+  "height":"5",
+  "miner":"4",
+  "hash":"50f9d33d9f93b9aad53eb7639f65f353eced955d124055280dd51e7d5188c84e",
+  "from":"3"
+},
+{
+  "eventID":"50",
+  "time":"89.32652018636792",
+  "type":"ReceiveBlock",
+  "node":"2",
+  "height":"5",
+  "miner":"4",
+  "hash":"50f9d33d9f93b9aad53eb7639f65f353eced955d124055280dd51e7d5188c84e",
+  "from":"1"
+},
+{
+  "eventID":"48",
+  "time":"91.21292831097512",
+  "type":"FoundBlock",
+  "node":"0",
+  "height":"6",
+  "miner":"0",
+  "hash":"b053666c65f99828a623abfced9b72e97a5de88d128ba77505c38a36068e033f"
+},
+{
+  "eventID":"51",
+  "time":"93.21292831097512",
+  "type":"ReceiveBlock",
+  "node":"1",
+  "height":"6",
+  "miner":"0",
+  "hash":"b053666c65f99828a623abfced9b72e97a5de88d128ba77505c38a36068e033f",
+  "from":"0"
+},
+{
+  "eventID":"52",
+  "time":"93.21292831097512",
+  "type":"ReceiveBlock",
+  "node":"4",
+  "height":"6",
+  "miner":"0",
+  "hash":"b053666c65f99828a623abfced9b72e97a5de88d128ba77505c38a36068e033f",
+  "from":"0"
+},
+{
+  "eventID":"53",
+  "time":"95.21292831097512",
+  "type":"ReceiveBlock",
+  "node":"2",
+  "height":"6",
+  "miner":"0",
+  "hash":"b053666c65f99828a623abfced9b72e97a5de88d128ba77505c38a36068e033f",
+  "from":"1"
+},
+{
+  "eventID":"54",
+  "time":"95.21292831097512",
+  "type":"ReceiveBlock",
+  "node":"3",
+  "height":"6",
+  "miner":"0",
+  "hash":"b053666c65f99828a623abfced9b72e97a5de88d128ba77505c38a36068e033f",
+  "from":"4"
+},
+{
+  "eventID":"55",
+  "time":"97.21292831097512",
+  "type":"ReceiveBlock",
+  "node":"3",
+  "height":"6",
+  "miner":"0",
+  "hash":"b053666c65f99828a623abfced9b72e97a5de88d128ba77505c38a36068e033f",
+  "from":"2"
+}]

@@ -1,0 +1,391 @@
+[{
+  "eventID":"0",
+  "time":"0.0",
+  "type":"InitNode",
+  "node":"0"
+},
+{
+  "eventID":"1",
+  "time":"0.0",
+  "type":"InitNode",
+  "node":"1"
+},
+{
+  "eventID":"2",
+  "time":"0.0",
+  "type":"InitNode",
+  "node":"2"
+},
+{
+  "eventID":"3",
+  "time":"0.0",
+  "type":"InitNode",
+  "node":"3"
+},
+{
+  "eventID":"4",
+  "time":"0.0",
+  "type":"InitNode",
+  "node":"4"
+},
+{
+  "eventID":"5",
+  "time":"25.09485083236959",
+  "type":"FoundBlock",
+  "node":"0",
+  "height":"1",
+  "miner":"0",
+  "hash":"170eb7985c67c33dcd560a0b2f401cf75728ccf50fc4068df9d615d8b531b1ac"
+},
+{
+  "eventID":"8",
+  "time":"31.046825547393958",
+  "type":"FoundBlock",
+  "node":"3",
+  "height":"1",
+  "miner":"3",
+  "hash":"243fe07747037db33101aaeab2265c217692fc2425c24a8b1f795bf417ce159f"
+},
+{
+  "eventID":"10",
+  "time":"33.04682554739396",
+  "type":"ReceiveBlock",
+  "node":"0",
+  "height":"1",
+  "miner":"3",
+  "hash":"243fe07747037db33101aaeab2265c217692fc2425c24a8b1f795bf417ce159f",
+  "from":"3"
+},
+{
+  "eventID":"11",
+  "time":"33.04682554739396",
+  "type":"ReceiveBlock",
+  "node":"1",
+  "height":"1",
+  "miner":"3",
+  "hash":"243fe07747037db33101aaeab2265c217692fc2425c24a8b1f795bf417ce159f",
+  "from":"3"
+},
+{
+  "eventID":"12",
+  "time":"33.04682554739396",
+  "type":"ReceiveBlock",
+  "node":"2",
+  "height":"1",
+  "miner":"3",
+  "hash":"243fe07747037db33101aaeab2265c217692fc2425c24a8b1f795bf417ce159f",
+  "from":"3"
+},
+{
+  "eventID":"13",
+  "time":"33.04682554739396",
+  "type":"ReceiveBlock",
+  "node":"4",
+  "height":"1",
+  "miner":"3",
+  "hash":"243fe07747037db33101aaeab2265c217692fc2425c24a8b1f795bf417ce159f",
+  "from":"3"
+},
+{
+  "eventID":"15",
+  "time":"35.04682554739396",
+  "type":"ReceiveBlock",
+  "node":"2",
+  "height":"1",
+  "miner":"3",
+  "hash":"243fe07747037db33101aaeab2265c217692fc2425c24a8b1f795bf417ce159f",
+  "from":"1"
+},
+{
+  "eventID":"16",
+  "time":"35.04682554739396",
+  "type":"ReceiveBlock",
+  "node":"4",
+  "height":"1",
+  "miner":"3",
+  "hash":"243fe07747037db33101aaeab2265c217692fc2425c24a8b1f795bf417ce159f",
+  "from":"1"
+},
+{
+  "eventID":"18",
+  "time":"35.04682554739396",
+  "type":"ReceiveBlock",
+  "node":"4",
+  "height":"1",
+  "miner":"3",
+  "hash":"243fe07747037db33101aaeab2265c217692fc2425c24a8b1f795bf417ce159f",
+  "from":"2"
+},
+{
+  "eventID":"9",
+  "time":"40.88514808090205",
+  "type":"FoundBlock",
+  "node":"0",
+  "height":"2",
+  "miner":"0",
+  "hash":"10c69d2358e10b8ace92e27a37754a5d9a0b5f53255a55108bf357a05b4902dd"
+},
+{
+  "eventID":"17",
+  "time":"47.935176877823935",
+  "type":"FoundBlock",
+  "node":"1",
+  "height":"2",
+  "miner":"1",
+  "hash":"04961860d9f0497f09867808d2644b4e58e016897e1607dce718c7f8a6509837"
+},
+{
+  "eventID":"23",
+  "time":"49.935176877823935",
+  "type":"ReceiveBlock",
+  "node":"0",
+  "height":"2",
+  "miner":"1",
+  "hash":"04961860d9f0497f09867808d2644b4e58e016897e1607dce718c7f8a6509837",
+  "from":"1"
+},
+{
+  "eventID":"24",
+  "time":"49.935176877823935",
+  "type":"ReceiveBlock",
+  "node":"2",
+  "height":"2",
+  "miner":"1",
+  "hash":"04961860d9f0497f09867808d2644b4e58e016897e1607dce718c7f8a6509837",
+  "from":"1"
+},
+{
+  "eventID":"25",
+  "time":"49.935176877823935",
+  "type":"ReceiveBlock",
+  "node":"3",
+  "height":"2",
+  "miner":"1",
+  "hash":"04961860d9f0497f09867808d2644b4e58e016897e1607dce718c7f8a6509837",
+  "from":"1"
+},
+{
+  "eventID":"26",
+  "time":"49.935176877823935",
+  "type":"ReceiveBlock",
+  "node":"4",
+  "height":"2",
+  "miner":"1",
+  "hash":"04961860d9f0497f09867808d2644b4e58e016897e1607dce718c7f8a6509837",
+  "from":"1"
+},
+{
+  "eventID":"28",
+  "time":"51.935176877823935",
+  "type":"ReceiveBlock",
+  "node":"3",
+  "height":"2",
+  "miner":"1",
+  "hash":"04961860d9f0497f09867808d2644b4e58e016897e1607dce718c7f8a6509837",
+  "from":"2"
+},
+{
+  "eventID":"29",
+  "time":"51.935176877823935",
+  "type":"ReceiveBlock",
+  "node":"4",
+  "height":"2",
+  "miner":"1",
+  "hash":"04961860d9f0497f09867808d2644b4e58e016897e1607dce718c7f8a6509837",
+  "from":"2"
+},
+{
+  "eventID":"31",
+  "time":"51.935176877823935",
+  "type":"ReceiveBlock",
+  "node":"4",
+  "height":"2",
+  "miner":"1",
+  "hash":"04961860d9f0497f09867808d2644b4e58e016897e1607dce718c7f8a6509837",
+  "from":"3"
+},
+{
+  "eventID":"27",
+  "time":"56.915302679378456",
+  "type":"FoundBlock",
+  "node":"0",
+  "height":"3",
+  "miner":"0",
+  "hash":"7a5922567c269fc5fddf0662741c44702d76577b173f565965bba9cb78185586"
+},
+{
+  "eventID":"30",
+  "time":"58.12746107709971",
+  "type":"FoundBlock",
+  "node":"2",
+  "height":"3",
+  "miner":"2",
+  "hash":"0f43385b14949f45fd1f82a3f73e980013f25027c574035ab75a98e86e2ac599"
+},
+{
+  "eventID":"33",
+  "time":"60.12746107709971",
+  "type":"ReceiveBlock",
+  "node":"0",
+  "height":"3",
+  "miner":"2",
+  "hash":"0f43385b14949f45fd1f82a3f73e980013f25027c574035ab75a98e86e2ac599",
+  "from":"2"
+},
+{
+  "eventID":"34",
+  "time":"60.12746107709971",
+  "type":"ReceiveBlock",
+  "node":"1",
+  "height":"3",
+  "miner":"2",
+  "hash":"0f43385b14949f45fd1f82a3f73e980013f25027c574035ab75a98e86e2ac599",
+  "from":"2"
+},
+{
+  "eventID":"35",
+  "time":"60.12746107709971",
+  "type":"ReceiveBlock",
+  "node":"3",
+  "height":"3",
+  "miner":"2",
+  "hash":"0f43385b14949f45fd1f82a3f73e980013f25027c574035ab75a98e86e2ac599",
+  "from":"2"
+},
+{
+  "eventID":"36",
+  "time":"60.12746107709971",
+  "type":"ReceiveBlock",
+  "node":"4",
+  "height":"3",
+  "miner":"2",
+  "hash":"0f43385b14949f45fd1f82a3f73e980013f25027c574035ab75a98e86e2ac599",
+  "from":"2"
+},
+{
+  "eventID":"37",
+  "time":"62.12746107709971",
+  "type":"ReceiveBlock",
+  "node":"3",
+  "height":"3",
+  "miner":"2",
+  "hash":"0f43385b14949f45fd1f82a3f73e980013f25027c574035ab75a98e86e2ac599",
+  "from":"1"
+},
+{
+  "eventID":"38",
+  "time":"62.12746107709971",
+  "type":"ReceiveBlock",
+  "node":"4",
+  "height":"3",
+  "miner":"2",
+  "hash":"0f43385b14949f45fd1f82a3f73e980013f25027c574035ab75a98e86e2ac599",
+  "from":"1"
+},
+{
+  "eventID":"39",
+  "time":"62.12746107709971",
+  "type":"ReceiveBlock",
+  "node":"4",
+  "height":"3",
+  "miner":"2",
+  "hash":"0f43385b14949f45fd1f82a3f73e980013f25027c574035ab75a98e86e2ac599",
+  "from":"3"
+},
+{
+  "eventID":"32",
+  "time":"67.43617377915723",
+  "type":"FoundBlock",
+  "node":"0",
+  "height":"4",
+  "miner":"0",
+  "hash":"5345904337ecd030e84cde5c4eb9bc5101e3c962ee7062b219a88f6cb006ce82"
+},
+{
+  "eventID":"41",
+  "time":"85.23149080206568",
+  "type":"FoundBlock",
+  "node":"4",
+  "height":"4",
+  "miner":"4",
+  "hash":"48fc9a0fd01647b59194ef57d703e6e983d67356eb5ac3e895e5d2db0094d24d"
+},
+{
+  "eventID":"42",
+  "time":"87.23149080206568",
+  "type":"ReceiveBlock",
+  "node":"0",
+  "height":"4",
+  "miner":"4",
+  "hash":"48fc9a0fd01647b59194ef57d703e6e983d67356eb5ac3e895e5d2db0094d24d",
+  "from":"4"
+},
+{
+  "eventID":"43",
+  "time":"87.23149080206568",
+  "type":"ReceiveBlock",
+  "node":"1",
+  "height":"4",
+  "miner":"4",
+  "hash":"48fc9a0fd01647b59194ef57d703e6e983d67356eb5ac3e895e5d2db0094d24d",
+  "from":"4"
+},
+{
+  "eventID":"44",
+  "time":"87.23149080206568",
+  "type":"ReceiveBlock",
+  "node":"2",
+  "height":"4",
+  "miner":"4",
+  "hash":"48fc9a0fd01647b59194ef57d703e6e983d67356eb5ac3e895e5d2db0094d24d",
+  "from":"4"
+},
+{
+  "eventID":"45",
+  "time":"87.23149080206568",
+  "type":"ReceiveBlock",
+  "node":"3",
+  "height":"4",
+  "miner":"4",
+  "hash":"48fc9a0fd01647b59194ef57d703e6e983d67356eb5ac3e895e5d2db0094d24d",
+  "from":"4"
+},
+{
+  "eventID":"46",
+  "time":"89.23149080206568",
+  "type":"ReceiveBlock",
+  "node":"2",
+  "height":"4",
+  "miner":"4",
+  "hash":"48fc9a0fd01647b59194ef57d703e6e983d67356eb5ac3e895e5d2db0094d24d",
+  "from":"1"
+},
+{
+  "eventID":"47",
+  "time":"89.23149080206568",
+  "type":"ReceiveBlock",
+  "node":"3",
+  "height":"4",
+  "miner":"4",
+  "hash":"48fc9a0fd01647b59194ef57d703e6e983d67356eb5ac3e895e5d2db0094d24d",
+  "from":"1"
+},
+{
+  "eventID":"48",
+  "time":"89.23149080206568",
+  "type":"ReceiveBlock",
+  "node":"3",
+  "height":"4",
+  "miner":"4",
+  "hash":"48fc9a0fd01647b59194ef57d703e6e983d67356eb5ac3e895e5d2db0094d24d",
+  "from":"2"
+},
+{
+  "eventID":"14",
+  "time":"99.80754898827661",
+  "type":"FoundBlock",
+  "node":"3",
+  "height":"2",
+  "miner":"3",
+  "hash":"31b20ed2cef73db8436ae87b720305c3b4e5496acaa44ed090709e3dfb119319"
+}]
