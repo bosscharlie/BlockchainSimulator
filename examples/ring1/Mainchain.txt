@@ -1,6 +1,0 @@
-node0: 2
-node1: 1
-node2: 0
-node3: 1
-node4: 2
-合計: 6
